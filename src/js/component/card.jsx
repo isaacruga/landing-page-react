@@ -20,7 +20,9 @@ const Card = () => {
 
 export default Card;
 
-/* Qué me está fallando?
+/* Qué me está fallando? No se ve nada cuando añado código en card, pero si lo quito 
+y restauro como me dijo Marcos sí que se ve.
+
  * - Import o Export
  * - el complemento (función) o las className
  * - <Card /> en home.jsx
