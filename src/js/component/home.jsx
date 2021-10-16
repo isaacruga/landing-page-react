@@ -1,12 +1,12 @@
 import React from "react";
-import Nav from "./navbar.jsx";
+import Navbar from "./navbar.jsx";
 import Card from "./card.jsx";
 
 //create your first component
 const Home = () => {
 	return (
 		<div>
-			<Nav />
+			<Navbar />
 			<div className="container">
 				<Card />
 			</div>
